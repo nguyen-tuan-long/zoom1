@@ -1,7 +1,7 @@
 const PROJECT_ID = "SK2qxmsrll3EeHqHrOlkSHdIED307tzenf";
 const PROJECT_SECRET = "RmFmQmxJNDdmNXdIaWNXWkx4enZ4TjFPR3lYOEtQTGQ=";
 const BASE_URL = "https://api.stringee.com/v1/room2";
-
+//fd
 class API {
   constructor(projectId, projectSecret) {
     this.projectId = projectId;
